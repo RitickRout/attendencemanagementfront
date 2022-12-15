@@ -1,0 +1,41 @@
+.paginate li{
+   cursor: pointer;
+   margin:2px 8px;
+   padding: 2px 8px;
+   border: 2px solid #303af8ad;
+}
+.paginate li:hover{
+   background-color: #303af8ad;
+   color: white;
+}
+
+.employeeslisttable{
+   height: 300px;
+}
+
+
+.sort{
+   margin: 0 6px;
+   cursor: pointer;
+}
+.addemployee{
+   cursor: pointer;
+}
+
+.datepickeer{
+   border: 4px solid rgba(60, 118, 206, 0.589);
+   text-align: center;
+   width: 35%;
+   cursor: pointer;
+   background-color: rgb(211, 223, 244);
+   padding:0.2em 0.4em
+}
+
+.paginate{
+   display: flex;
+   
+}
+
+.pointer{
+   cursor: pointer;
+}
